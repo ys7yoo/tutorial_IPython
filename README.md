@@ -14,7 +14,16 @@ For more detail information, see the official website: [https://ipython.org](htt
 
 
 # How to install?
+The easest way to install Ipython is to use pip as follows.
+```
+pip install ipython
+```
 
 
 # How to use it?
+
+## on local machine
+
+## launch remotely on a server 
+The only difference from the local-launch is that you use SSH turnelling. 
 
