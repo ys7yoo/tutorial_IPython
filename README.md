@@ -3,7 +3,8 @@ Quck tutorial for setting up development environment for IPython
 
 
 # What is IPython?
-For easier  and interactive development of Python codes, we use IPython in the Jupyter Notebook.
+I(teractive)Python is an interactive development environment for Python.
+We use IPython in the Jupyter Notebook for easier and interactive development.
 
 Some useful features include:
 * A notebook (*.ipynb) contains python code as weel as some comments.
