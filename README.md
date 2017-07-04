@@ -28,3 +28,5 @@ You have two options to run and edit Ipython notebooks.
 ### launch remotely on a server 
 The only difference from the local-launch is that you use SSH turnelling. 
 
+See here for detail steps. 
+[https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh)
