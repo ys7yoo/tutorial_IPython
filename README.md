@@ -24,6 +24,14 @@ pip install ipython
 You have two options to run and edit Ipython notebooks.
 
 ### on local machine
+1. Open an Terminal
+2. Go to the folder with your notebooks
+3. Launch the server 
+```
+ipython notebook
+```
+4. Open (any) web browser and go to `localhost:8888'
+
 
 ### launch remotely on a server 
 The only difference from the local-launch is that you use SSH turnelling. 
