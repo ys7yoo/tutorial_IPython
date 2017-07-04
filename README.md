@@ -21,9 +21,10 @@ pip install ipython
 
 
 # How to use it?
+You have two options to run and edit Ipython notebooks.
 
-## on local machine
+### on local machine
 
-## launch remotely on a server 
+### launch remotely on a server 
 The only difference from the local-launch is that you use SSH turnelling. 
 
