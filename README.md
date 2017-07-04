@@ -30,8 +30,8 @@ You have two options to run and edit Ipython notebooks.
 ```
 ipython notebook
 ```
-4. Open (any) web browser and go to `localhost:8888'
-
+4. Open (any) web browser and go to localhost:8888
+5. In the web browser, you can run each block by Shift+Enter.
 
 ### launch remotely on a server 
 The only difference from the local-launch is that you use SSH turnelling. 
