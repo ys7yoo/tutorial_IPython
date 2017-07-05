@@ -13,7 +13,7 @@ Some useful features include:
 
 For more detail information, see the official website: [https://ipython.org](https://ipython.org).
 
-Another good source is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec)
+Another good source is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec).
 
 
 # How to install?
