@@ -11,7 +11,8 @@ Some useful features include:
 * You can launch your notebook from (any) web brower on your local machine while real computing is performed on a remote server.
 * You can run block-by-block!This is very useful for debugging.
 
-For more detail information, see the official website: [https://ipython.org](https://ipython.org)
+For more detail information, see the official website: [https://ipython.org](https://ipython.org).
+Another good source is this book [Learning Ipython for Interactive Computing and Data Visualization (2nd ed.)](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec)
 
 
 # How to install?
