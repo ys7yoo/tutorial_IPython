@@ -7,7 +7,7 @@ I(teractive)Python is an interactive development environment for Python.
 We use IPython in the Jupyter Notebook for easier and interactive development.
 
 Some useful features include:
-* A notebook (*.ipynb) contains python code as weel as some comments.
+* A notebook (*.ipynb) contains python code as well as some comments.
 * You can launch your notebook from (any) web brower on your local machine while real computing is performed on a remote server.
 * You can run block-by-block!This is very useful for debugging.
 
